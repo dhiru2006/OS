@@ -156,3 +156,16 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+to run 
+nano pipe.c
+gcc pipe.c -o pipe
+nano sample.txt
+Ctrl + O
+Enter
+Ctrl + X
+./pipe
