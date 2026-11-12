@@ -84,3 +84,13 @@ while true; do
         *) echo "Invalid choice. Please select 1-6." ;;
     esac
 done
+
+
+
+
+
+Give execution permission
+chmod +x addressbook.sh
+
+Step 5: Run the program
+./addressbook.sh
