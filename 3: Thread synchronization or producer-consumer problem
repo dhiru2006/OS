@@ -89,3 +89,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+tep 4: Compile the program
+gcc producer_consumer.c -o producer_consumer -pthread
+
+Step 5: Execute the program
+./producer_consumer
