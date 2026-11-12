@@ -75,3 +75,11 @@ int main()
 
     return 0;
 }
+
+
+
+Compile the program
+gcc dining.c -o dining -pthread
+
+Step 5: Run the program
+./dining
